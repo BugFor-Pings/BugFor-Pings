@@ -1,11 +1,11 @@
 <h1 align="center">Welcome To Pings's Space</h1>
-<h3 align="center">南京林业大学| 网络安全爱好者 | 终生学习者</h3>
+<h3 align="center">网络安全爱好者</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pings1031&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
 
 - 📫 如何联系我 **govhack@vip.qq.com**
 
-- ⚡ 我喜欢**健身、挖洞、历史、旅游、安全情报研究**
+- ⚡ 我喜欢**健身、挖洞、旅游、安全情报研究**
 
 - ✔  学过的语言**PHP、nodejs、Javascript、Python、**
 
