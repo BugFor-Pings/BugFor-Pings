@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Welcome To Pings's Space</h1>
+<h3 align="center">南京林业大学| 网络安全爱好者 | 终生学习者</h3>
 
-<!--
-**Pings1031/Pings1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pings1031&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
 
-Here are some ideas to get you started:
+- 📫 如何联系我 **govhack@vip.qq.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ 我喜欢**健身、挖洞、历史、旅游、安全情报研究**
+
+- ✔  学过的语言**PHP、nodejs、Javascript、Python、**
+
+- 🚪  技术栈：**前端开发、web渗透**
+
+- 📕  目前正在学习：**内网渗透**、**二进制安全**
+
+- 🐱‍👤 团队：**BUGFOR** 
+
+- 🔗https://team.bugfor.com/
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pings1031)
+
+
