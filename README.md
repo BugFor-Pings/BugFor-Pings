@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BugFor-Pings&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
 
-- 📫 如何联系我 **govhack@vip.qq.com**
+- 📫 如何联系我 **govhack@vip.qq.com** ⚡ 我喜欢**健身、挖洞、旅游、安全情报研究**
 
-- ⚡ 我喜欢**健身、挖洞、旅游、安全情报研究**
+- ✔  学过的语言**PHP、nodejs、Javascript、Python、**  🚪  技术栈：**前端开发、web渗透**
 
-- ✔  学过的语言**PHP、nodejs、Javascript、Python、**
+- 📕  目前正在学习：**内网渗透**、**二进制安全**  🐱‍👤 团队：**BUGFOR** 
 
-- 🚪  技术栈：**前端开发、web渗透**
-
-- 📕  目前正在学习：**内网渗透**、**二进制安全**
-
-- 🐱‍👤 团队：**BUGFOR** 
-
-- 🔗Team:https://team.bugfor.com/
-
-- :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
+- 🔗Team:https://team.bugfor.com/   :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=BugFor-Pings&show_icons=flash" />
