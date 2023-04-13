@@ -7,7 +7,7 @@
 - ⚡ 我喜欢：**健身、挖洞、旅游、安全情报研究、开发小玩意**
 - ✔  学过的语言：**PHP、nodejs、Javascript、Python、** 
 - 🚪  技术栈：**前端开发、Web渗透、内网渗透**
-- 📕  目前正在学习：**golang**、**二进制安全**
+- 📕  目前正在学习：**Golang**、**二进制安全**
 -  🐱‍👤 团队：**BUGFOR** 
 
 - 🔗Team:https://www.bugfor.com/ &emsp; :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
