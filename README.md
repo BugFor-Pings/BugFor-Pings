@@ -19,14 +19,12 @@
  ![qrcode_for_gh_05f7cf7b2ec2_258](https://s2.xptou.com/2023/04/13/64381c53262cd.jpg)
 
 
-<h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   
-<img align="right" src="https://profile-counter.glitch.me/BugFor-Pings/count.svg" /> 
-</h2> 
-
-
 ## &#x1f4dd; Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugFor-Pings&hide=html)](https://fireline.fun/)
 
 
+<h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   
+<img align="right" src="https://profile-counter.glitch.me/BugFor-Pings/count.svg" /> 
+</h2> 
 
