@@ -23,7 +23,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=BugFor-Pings&show_icons=true" />
 
 - :tada: 微信公众号: 法克安全  
-![qrcode_for_gh_05f7cf7b2ec2_258](https://s2.xptou.com/2023/04/13/64381c53262cd.jpg)
+- ![qrcode_for_gh_05f7cf7b2ec2_258](https://s2.xptou.com/2023/04/13/64381c53262cd.jpg)
+
 
 
 <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/BugFor-Pings/count.svg" /> </h2> 
