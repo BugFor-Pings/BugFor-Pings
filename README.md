@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To Pings's Space</h1>
 <h3 align="center">网络安全爱好者</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pings1031&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BugFor-Pings&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
 
 - 📫 如何联系我 **govhack@vip.qq.com**
 
