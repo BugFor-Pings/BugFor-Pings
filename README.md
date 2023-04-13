@@ -19,6 +19,6 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pings1031)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BugFor-Pings)
 
 
