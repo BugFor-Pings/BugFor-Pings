@@ -15,7 +15,7 @@
 
 - 🐱‍👤 团队：**BUGFOR** 
 
-- 🔗https://team.bugfor.com/
+- 🔗Team:https://team.bugfor.com/
 
 - :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
 
@@ -40,8 +40,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhy0/yhy0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yhy0/yhy0/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BugFor-Pings)
 
 
