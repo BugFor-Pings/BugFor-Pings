@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BugFor-Pings&label=Profile%20views&color=0e75b6&style=flat" alt="Pings" /> </p>
 
 - 📫 如何联系我 **govhack@vip.qq.com** 
-- ⚡ 我喜欢**健身、挖洞、旅游、安全情报研究**
+- ⚡ 我喜欢**健身、挖洞、旅游、安全情报研究、开发小玩意**
 - ✔  学过的语言**PHP、nodejs、Javascript、Python、** 
 - 🚪  技术栈：**前端开发、Web渗透**
 - 📕  目前正在学习：**内网渗透**、**二进制安全**
