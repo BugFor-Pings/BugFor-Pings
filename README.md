@@ -10,7 +10,7 @@
 - 📕  目前正在学习：**Golang**、**二进制安全**
 -  🐱‍👤 团队：**BUGFOR** 
 
-- 🔗Team:https://www.bugfor.com/ 
+- 🔗Team：https://www.bugfor.com/ 
 - :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=BugFor-Pings&show_icons=flash" />
