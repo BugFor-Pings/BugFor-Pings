@@ -14,20 +14,13 @@
 - :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
 
 
-
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BugFor-Pings&show_icons=flash" />
-
-
-
-
 - :tada: 微信公众号: 法克安全  
 
 
 
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BugFor-Pings&show_icons=flash" />
 
 ## &#x1f4dd; Most Used Languages
 
