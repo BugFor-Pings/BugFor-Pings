@@ -11,7 +11,7 @@
 -  🐱‍👤 团队：**BUGFOR** 
 
 - 🔗Team：https://www.bugfor.com/ 
-- :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ 
+- :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ (已停-不开了)
 
 
 - :tada: 微信公众号: 法克安全  
