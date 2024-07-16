@@ -11,7 +11,7 @@
 -  🐱‍👤 团队：**BUGFOR** 
 
 - 🔗Team：https://www.bugfor.com/ 
-- :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ (2017-2024-停止续费-域名已过期)
+- :globe_with_meridians: 博客 : https://blog.hackersafe.cn/ (服务器已过期-不再运营博客)
 
 
 - :tada: 微信公众号: 法克安全  
