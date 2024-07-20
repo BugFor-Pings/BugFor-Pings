@@ -1,9 +1,8 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+Welcome+To+Pings's+Space.)](https://git.io/typing-svg) </h1>
+<h1 align="center">Welcome+To+Pings's+Space.</h1>
 <h3 align="center">网络安全爱好者</h3>
-
+<center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+Welcome+To+Pings's+Space.)](https://git.io/typing-svg)
-
-
+</center>
 
 - 📫 如何联系我 ：**govhack@vip.qq.com** 
 - ⚡ 我喜欢：**健身、挖洞、旅游、安全情报研究、开发小玩意**
