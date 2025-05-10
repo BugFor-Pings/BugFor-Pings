@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FF00&background=000000&vCenter=true&random=false&width=435&lines=%E2%AC%9B%3E+No+System+Is+Safe.)](http://www.hackersafe.cn)
 
 
-- 📫 如何联系我 ：**govhack@vip.qq.com** 
+- 📫 如何联系我 ：**Pings@mps.ga** 
 - ⚡ 我喜欢：**健身、挖洞、旅游、安全情报研究、开发小玩意**
 - ✔  学过的语言：**PHP、nodejs、Javascript、Python、** 
 - 🚪  技术栈：**前端开发、Web渗透、内网渗透、代码审计**
