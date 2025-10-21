@@ -6,7 +6,7 @@
 
 - 📫 如何联系我 ：**Pings@mps.ga** 
 - ⚡ 我喜欢：**健身、挖洞、旅游、安全情报研究、开发小玩意**
-- ✔  学过的语言：**PHP、nodejs、Javascript、Python、** 
+- ✔  学过的语言：**PHP、nodejs、Javascript、Python、go、C、** 
 - 🚪  技术栈：**前端开发、Web渗透、内网渗透、代码审计**
 - 📕  目前正在学习：**Golang**、**二进制安全**
 -  🐱‍👤 团队：**BUGFOR** 
